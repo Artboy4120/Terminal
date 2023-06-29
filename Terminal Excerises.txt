@@ -1,0 +1,25 @@
+1. mkdir first
+2. cd first
+3. mv test.txt another.txt
+4. cp another.txt copy.txt
+5. rm copy.txt
+6. cp -r first second
+7 rm -rf second
+
+
+part 2
+
+1 man lists the manual for the command, -B
+
+2 -l flag will list files in a list format with extra details, 
+  -a flag lists all files including hidden files
+3  left right
+
+4 control E
+5 Control a
+6 control delete
+7 terminal is a program and a interface, shell acts out the commands and, the terminal just gives an alter way to interact with the Enviroment
+8 absolute path is a path from root to destination
+9 relative starts at current location 
+10 flags are add ons to commands such as - a -l - r
+11 r removes folders and and consitentitly go through each folder and file , F forces like admin etc.
